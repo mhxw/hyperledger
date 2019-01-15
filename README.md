@@ -4,7 +4,7 @@
 
 > 资料收集于网络，如有侵权联系作者删除。 邮箱：holechain@gmail.com
 
-序号 | hyperledger学习资料|下载地址
+\# | hyperledger学习资料|下载地址
 ----|----|----
 1 | 学习Hyperledger Fabric 实战联盟链 | https://download.csdn.net/download/qq_34104725/10913315
 2 | HyperLedger Fabric 企业级开发项目实战 -- 江苏省农牧厅渔业管理系统 | https://download.csdn.net/download/qq_34104725/10918172
