@@ -1,5 +1,5 @@
 ## hyperledger
-[TOC] 资料收集于网络，如有侵权联系作者删除。 邮箱：holechain@gmail.com
+
 hyperledger学习资料|下载地址
 ----|----
 学习Hyperledger Fabric 实战联盟链|https://download.csdn.net/download/qq_34104725/10913315
