@@ -7,4 +7,4 @@ HyperLedger Fabric 企业级开发项目实战 -- 江苏省农牧厅渔业管理
 
 使用工具 | 下载地址
 ----|----
-Xshell&Xftp教育版 | 链接:https://pan.baidu.com/s/1GadCaPJaIPN1S0D_x2UYiQ 密码:jn3p
+SSH使用：Xshell&Xftp教育版 | 链接:https://pan.baidu.com/s/1GadCaPJaIPN1S0D_x2UYiQ 密码:jn3p
