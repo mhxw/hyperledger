@@ -13,4 +13,5 @@
 1 | SSH使用：Xshell&Xftp教育版 | 链接:https://pan.baidu.com/s/1GadCaPJaIPN1S0D_x2UYiQ 密码:jn3p
 2 | 搭建fabric环境中出的一系列错误(持续补充) | https://blog.csdn.net/Judy_Angella/article/details/79075249
 3 | Ubuntu 16.04部署HyperLedger Fabric(持续更新) | https://zhuanlan.zhihu.com/p/54759061
+4 | HyperLedger Fabric 基础介绍 | https://zhuanlan.zhihu.com/p/55341714
 > 资料收集于网络，如有侵权联系作者删除。 邮箱：holechain@gmail.com
