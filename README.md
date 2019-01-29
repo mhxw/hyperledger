@@ -13,6 +13,8 @@
 1 | HyperLedger Fabric 基础介绍 | https://zhuanlan.zhihu.com/p/55341714
 2 | Ubuntu 16.04部署HyperLedger Fabric(持续更新) | https://zhuanlan.zhihu.com/p/54759061
 3 | 搭建fabric环境中出的一系列错误(持续补充) | https://blog.csdn.net/Judy_Angella/article/details/79075249
+4 | 尚硅谷_雷丰阳SpringBoot核心技术篇（基础篇）| 链接: https://pan.baidu.com/s/1UqkQRpQ7f6fuJNi3JOlbyQ 密码: rbde
+5 | 尚硅谷-雷丰阳SpringBoot高级进阶篇（整合篇）| 链接: https://pan.baidu.com/s/1iCLfuXqcMAJ1n0LLzS1dTQ 密码: 7ddt
 
 \# | 工具 | 链接
 ----|----|----
