@@ -9,7 +9,7 @@
 3 | 深度探索区块链：Hyperledger技术与应用_区块链技术丛书-张增骏 | https://download.csdn.net/download/qq_34104725/10918189
 4 | Docker+Kubernetes(k8s)微服务容器化实践 | https://pan.baidu.com/s/1dRixHcR6KkmlTkjqc4eR2A 密码: 88rh
 
-\# | hyperledger学习资料|链接
+\# | Go语言学习资料|链接
 ----|----|----
 1 | 20小时快速入门go语言视频-黑马程序员 | https://pan.baidu.com/s/1SOybRHWSpbu16D4SmPR_Fg 密码: ss32
 2 | Go语言核心编程课程(韩顺平主讲)-尚硅谷 | https://pan.baidu.com/s/156PiUw45aEmKLbyqFM6Iqw 密码：I768
