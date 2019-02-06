@@ -7,6 +7,13 @@
 1 | 学习Hyperledger Fabric 实战联盟链 | https://download.csdn.net/download/qq_34104725/10913315
 2 | HyperLedger Fabric 企业级开发项目实战 -- 江苏省农牧厅渔业管理系统 | https://download.csdn.net/download/qq_34104725/10918172
 3 | 深度探索区块链：Hyperledger技术与应用_区块链技术丛书-张增骏 | https://download.csdn.net/download/qq_34104725/10918189
+4 | Docker+Kubernetes(k8s)微服务容器化实践 | https://pan.baidu.com/s/1dRixHcR6KkmlTkjqc4eR2A 密码: 88rh
+
+\# | hyperledger学习资料|链接
+----|----|----
+1 | 20小时快速入门go语言视频-黑马程序员 | https://pan.baidu.com/s/1SOybRHWSpbu16D4SmPR_Fg 密码: ss32
+2 | Go语言核心编程课程(韩顺平主讲)-尚硅谷 | https://pan.baidu.com/s/156PiUw45aEmKLbyqFM6Iqw 密码：I768
+3 | Google资深工程师深度讲解Go语言 | https://pan.baidu.com/s/1IGM-Zqz92AdkskqjBxpeDA 密码：b9wc
 
 \# | 描述 | 链接
 ----|----|----
@@ -20,3 +27,4 @@
 ----|----|----
 1 | SSH使用：Xshell&Xftp教育版 | 链接:https://pan.baidu.com/s/1GadCaPJaIPN1S0D_x2UYiQ 密码:jn3p
 > 资料收集于网络，如有侵权联系作者删除。 邮箱：holechain@gmail.com
+
