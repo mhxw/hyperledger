@@ -14,6 +14,7 @@
 1 | 20小时快速入门go语言视频-黑马程序员 | https://pan.baidu.com/s/1SOybRHWSpbu16D4SmPR_Fg 密码: ss32
 2 | Go语言核心编程课程(韩顺平主讲)-尚硅谷 | https://pan.baidu.com/s/156PiUw45aEmKLbyqFM6Iqw 密码：I768
 3 | Google资深工程师深度讲解Go语言 | https://pan.baidu.com/s/1IGM-Zqz92AdkskqjBxpeDA 密码：b9wc
+4 | 基于Golang协程实现流量统计系统 | https://pan.baidu.com/s/1CDnuKHJn0BA9OAnsmd8adA 密码: qjr3
 
 \# | 描述 | 链接
 ----|----|----
