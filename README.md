@@ -28,5 +28,5 @@
 \# | 工具 | 链接
 ----|----|----
 1 | SSH使用：Xshell&Xftp教育版 | 链接:https://pan.baidu.com/s/1GadCaPJaIPN1S0D_x2UYiQ 密码:jn3p
-> 资料收集于网络，如有侵权联系作者删除。 邮箱：holechain@gmail.com
-> 以上资料如果失效，联系作者邮箱重新补全更新。
+>  资料收集于网络，如有侵权联系作者删除。 
+>  以上资料如果失效，联系作者邮箱重新补全更新。邮箱：holechain@gmail.com
