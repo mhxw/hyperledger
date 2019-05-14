@@ -22,8 +22,12 @@
 1 | HyperLedger Fabric 基础介绍 | https://zhuanlan.zhihu.com/p/55341714
 2 | Ubuntu 16.04部署HyperLedger Fabric(持续更新) | https://zhuanlan.zhihu.com/p/54759061
 3 | 搭建fabric环境中出的一系列错误(持续补充) | https://blog.csdn.net/Judy_Angella/article/details/79075249
-4 | 尚硅谷_雷丰阳SpringBoot核心技术篇（基础篇）| https://pan.baidu.com/s/1UqkQRpQ7f6fuJNi3JOlbyQ 提取码: rbde
-5 | 尚硅谷-雷丰阳SpringBoot高级进阶篇（整合篇）| https://pan.baidu.com/s/1iCLfuXqcMAJ1n0LLzS1dTQ 提取码: 7ddt
+4 | Ubuntu 16.04部署E2E-cli案例 | https://www.jianshu.com/p/7ff74cfc7125
+5 | Hyperledger Fabric1.x运行first-network和fabcar以及常见问题解决（持续更新） | https://www.jianshu.com/p/b097e489dd99
+6 | Hyperledger Fabric SDK示例 fabric-samples-《balance-transfer》 | https://www.jianshu.com/p/489e83cef158
+7 | 区块链中常用共识算法总结（持续更新） | https://www.jianshu.com/p/b56ab577222d
+7 | 尚硅谷_雷丰阳SpringBoot核心技术篇（基础篇）| https://pan.baidu.com/s/1UqkQRpQ7f6fuJNi3JOlbyQ 提取码: rbde
+8 | 尚硅谷-雷丰阳SpringBoot高级进阶篇（整合篇）| https://pan.baidu.com/s/1iCLfuXqcMAJ1n0LLzS1dTQ 提取码: 7ddt
 
 \# | 工具 | 链接
 ----|----|----
