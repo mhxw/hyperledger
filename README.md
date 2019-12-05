@@ -10,6 +10,12 @@
 4 | Docker+Kubernetes(k8s)微服务容器化实践 | https://pan.baidu.com/s/1dRixHcR6KkmlTkjqc4eR2A 提取码: 88rh
 5 | Hyperledger弹珠项目和投票系统项目实战 | 链接: https://pan.baidu.com/s/1-ClzDsI9Euf6wUA_eaIzRQ 提取码: sseq
 
+\# | 以太坊学习资料|链接
+----|----|----
+1 | 以太坊理论到进阶（by 尚硅谷） | 链接:https://pan.baidu.com/s/1VhVvjzB3rxKD5HQkC5nUyg  密码:viuf
+1 | 基于Token的硅谷投票系统 | 链接:https://pan.baidu.com/s/1qNM6COSwzPEWAqWI5GPg8w  密码:tr2r
+2 | 基于以太坊硅谷拍卖系统(去中心化eBay) | 链接:https://pan.baidu.com/s/1HSGZyo0FCO04JLL4RolC9A  密码:z7qe
+
 \# | Go语言学习资料|链接
 ----|----|----
 1 | 20小时快速入门go语言视频-黑马程序员 | https://pan.baidu.com/s/1SOybRHWSpbu16D4SmPR_Fg 提取码: ss32
