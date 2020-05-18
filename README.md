@@ -13,8 +13,12 @@
 \# | 以太坊学习资料|链接
 ----|----|----
 1 | 以太坊理论到进阶（by 尚硅谷） | 链接:https://pan.baidu.com/s/1VhVvjzB3rxKD5HQkC5nUyg  密码:viuf
-1 | 基于Token的硅谷投票系统 | 链接:https://pan.baidu.com/s/1qNM6COSwzPEWAqWI5GPg8w  密码:tr2r
-2 | 基于以太坊硅谷拍卖系统(去中心化eBay) | 链接:https://pan.baidu.com/s/1HSGZyo0FCO04JLL4RolC9A  密码:z7qe
+2 | 基于Token的硅谷投票系统 | 链接:https://pan.baidu.com/s/1qNM6COSwzPEWAqWI5GPg8w  密码:tr2r
+3 | 基于以太坊硅谷拍卖系统(去中心化eBay) | 链接:https://pan.baidu.com/s/1HSGZyo0FCO04JLL4RolC9A  密码:z7qe
+## IPFS
+\# | IPFS学习资料|链接
+----|----|----
+1 | IPFS音乐播放器项目 | 链接：https://pan.baidu.com/s/1mgKygDDp6DjG_OpFbGuWEg 提取码：t9xg 
 ## Golang
 \# | Go语言学习资料|链接
 ----|----|----
