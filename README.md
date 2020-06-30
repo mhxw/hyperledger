@@ -15,7 +15,7 @@
 1 | 以太坊理论到进阶（by 尚硅谷） | 链接:https://pan.baidu.com/s/1VhVvjzB3rxKD5HQkC5nUyg  密码:viuf
 2 | 基于Token的硅谷投票系统 | 链接:https://pan.baidu.com/s/1qNM6COSwzPEWAqWI5GPg8w  密码:tr2r
 3 | 基于以太坊硅谷拍卖系统(去中心化eBay) | 链接:https://pan.baidu.com/s/1HSGZyo0FCO04JLL4RolC9A  密码:z7qe
-4 | 尚硅谷深入掌握以太坊核心技术 | https://www.bilibili.com/video/BV1NJ411D7rf
+4 | 尚硅谷深入掌握以太坊核心技术 | https://www.bilibili.com/video/BV1sJ411D72u
 ## IPFS
 \# | IPFS学习资料|链接
 ----|----|----
@@ -37,8 +37,8 @@
 5 | Hyperledger Fabric1.x运行first-network和fabcar以及常见问题解决（持续更新） | https://www.jianshu.com/p/b097e489dd99
 6 | Hyperledger Fabric SDK示例 fabric-samples-《balance-transfer》 | https://www.jianshu.com/p/489e83cef158
 7 | 区块链中常用共识算法总结（持续更新） | https://www.jianshu.com/p/b56ab577222d
-7 | 尚硅谷_雷丰阳SpringBoot核心技术篇（基础篇）| https://pan.baidu.com/s/1UqkQRpQ7f6fuJNi3JOlbyQ 提取码: rbde
-8 | 尚硅谷-雷丰阳SpringBoot高级进阶篇（整合篇）| https://pan.baidu.com/s/1iCLfuXqcMAJ1n0LLzS1dTQ 提取码: 7ddt
+8 | 尚硅谷_雷丰阳SpringBoot核心技术篇（基础篇）| https://pan.baidu.com/s/1UqkQRpQ7f6fuJNi3JOlbyQ 提取码: rbde
+9 | 尚硅谷-雷丰阳SpringBoot高级进阶篇（整合篇）| https://pan.baidu.com/s/1iCLfuXqcMAJ1n0LLzS1dTQ 提取码: 7ddt
 ## 工具
 \# | 工具 | 链接
 ----|----|----
