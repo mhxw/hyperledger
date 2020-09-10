@@ -39,6 +39,10 @@
 7 | 区块链中常用共识算法总结（持续更新） | https://www.jianshu.com/p/b56ab577222d
 8 | 尚硅谷_雷丰阳SpringBoot核心技术篇（基础篇）| https://pan.baidu.com/s/1UqkQRpQ7f6fuJNi3JOlbyQ 提取码: rbde
 9 | 尚硅谷-雷丰阳SpringBoot高级进阶篇（整合篇）| https://pan.baidu.com/s/1iCLfuXqcMAJ1n0LLzS1dTQ 提取码: 7ddt
+## 博客
+\# | 描述 | 链接
+----|----|----
+1 | hubwiz区块链博客 | http://blog.hubwiz.com/
 ## 工具
 \# | 工具 | 链接
 ----|----|----
