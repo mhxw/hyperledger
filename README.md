@@ -44,6 +44,8 @@
 \# | 描述 | 链接
 ----|----|----
 1 | hubwiz区块链博客 | http://blog.hubwiz.com/
+2 | Netkiller Blockchain 手札 | https://www.netkiller.cn/blockchain/index.html
+
 ## 工具
 \# | 工具 | 链接
 ----|----|----
