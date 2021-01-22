@@ -17,6 +17,7 @@
 3 | 基于以太坊硅谷拍卖系统(去中心化eBay) | 链接:https://pan.baidu.com/s/1HSGZyo0FCO04JLL4RolC9A  密码:z7qe
 4 | 尚硅谷深入掌握以太坊核心技术 | https://www.bilibili.com/video/BV1sJ411D72u
 5 | 以太坊开发者使用工具集锦 | https://github.com/ConsenSys/ethereum-developer-tools-list
+6 | 以太坊学习社区 | https://learnblockchain.cn/
 ## IPFS
 \# | IPFS学习资料|链接
 ----|----|----
