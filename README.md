@@ -21,6 +21,8 @@
 4 | 尚硅谷深入掌握以太坊核心技术 | https://www.bilibili.com/video/BV1sJ411D72u
 5 | 以太坊开发者使用工具集锦 | https://github.com/ConsenSys/ethereum-developer-tools-list
 6 | 以太坊学习社区 | https://learnblockchain.cn/
+7 | 以太坊solidity开发者博客 | https://soliditydeveloper.com/
+
 
 ## IPFS
 
