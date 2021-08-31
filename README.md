@@ -22,7 +22,7 @@
 5 | 以太坊开发者使用工具集锦 | https://github.com/ConsenSys/ethereum-developer-tools-list
 6 | 以太坊学习社区 | https://learnblockchain.cn/
 7 | 以太坊solidity开发者博客 | https://soliditydeveloper.com/
-
+8 | 用Go来做以太坊开发(中英文) | https://goethereumbook.org/
 
 ## IPFS
 
