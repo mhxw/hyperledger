@@ -24,6 +24,17 @@
 7 | 以太坊solidity开发者博客 | https://soliditydeveloper.com/
 8 | 用Go来做以太坊开发(中英文) | https://goethereumbook.org/
 
+## Solidity
+
+\# | 描述|链接
+----|----|----
+1 | Solidity 官方文档 | https://docs.soliditylang.org/en/latest/
+2 | Solidity 中文文档 | https://learnblockchain.cn/docs/solidity/
+3 | Hardhat 官方文档 | https://hardhat.org/getting-started/
+4 | Hardhat 中文文档 | https://learnblockchain.cn/docs/hardhat/getting-started/
+5 | Truffle 官方文档 | https://www.trufflesuite.com/
+6 | Truffle 中文文档 | https://truffle.tryblockchain.org/
+
 ## IPFS
 
 \# | IPFS学习资料|链接
