@@ -10,6 +10,8 @@
 4 | Docker+Kubernetes(k8s)微服务容器化实践 | https://pan.baidu.com/s/1dRixHcR6KkmlTkjqc4eR2A 提取码: 88rh
 5 | Hyperledger弹珠项目和投票系统项目实战 | 链接: https://pan.baidu.com/s/1-ClzDsI9Euf6wUA_eaIzRQ 提取码: sseq
 6 | Hyperledger企业级区块链实战教程 | 链接: https://learnblockchain.cn/books/enterprise/
+7 | 基于hyperledger fabric v2.x 的学历征信系统 | 链接: https://space.bilibili.com/373566326
+
 
 ## Ethereum
 
