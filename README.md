@@ -18,12 +18,12 @@
 \# | 以太坊学习资料|链接
 ----|----|----
 1 | 通过案例轻松入门Solidity | https://mhxw.life/solidity-by-example-cn/
-2 | 以太坊开发者使用工具集锦 | https://github.com/ConsenSys/ethereum-developer-tools-list
-3 | 以太坊学习社区 | https://learnblockchain.cn/
-4 | 以太坊solidity开发者博客 | https://soliditydeveloper.com/
-5 | Solidity8.0全面精通视频讲解 | https://mhxw.life/ethereum-development-with-go-book/
-6 | 以太坊理论到进阶（by 尚硅谷） | https://space.bilibili.com/286084162/channel/series
-7 | 基于Token的硅谷投票系统 | 链接:https://pan.baidu.com/s/1qNM6COSwzPEWAqWI5GPg8w  密码:tr2r
+2 | 用Go进行以太坊开发 | https://mhxw.life/ethereum-development-with-go-book/
+3 | 以太坊开发者使用工具集锦 | https://github.com/ConsenSys/ethereum-developer-tools-list
+4 | 以太坊学习社区 | https://learnblockchain.cn/
+5 | 以太坊solidity开发者博客 | https://soliditydeveloper.com/
+6 | Solidity8.0全面精通视频讲解 | https://space.bilibili.com/286084162/channel/series
+7 | Golang版以太坊设计与实现 | https://learnblockchain.cn/geth/
 8 | 基于以太坊硅谷拍卖系统(去中心化eBay) | 链接:https://pan.baidu.com/s/1HSGZyo0FCO04JLL4RolC9A  密码:z7qe
 9 | 尚硅谷深入掌握以太坊核心技术 | https://www.bilibili.com/video/BV1sJ411D72u
 
