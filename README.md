@@ -24,8 +24,11 @@
 5 | 以太坊solidity开发者博客 | https://soliditydeveloper.com/
 6 | Solidity8.0全面精通视频讲解 | https://space.bilibili.com/286084162/channel/series
 7 | Golang版以太坊设计与实现 | https://learnblockchain.cn/geth/
-8 | 基于以太坊硅谷拍卖系统(去中心化eBay) | 链接:https://pan.baidu.com/s/1HSGZyo0FCO04JLL4RolC9A  密码:z7qe
-9 | 尚硅谷深入掌握以太坊核心技术 | https://www.bilibili.com/video/BV1sJ411D72u
+8 | 区块链安全入门笔记 | https://github.com/slowmist/Knowledge-Base/tree/master/blockchain_security_study_notes
+9 | 如何编写安全可靠的智能合约(英文版) | https://github.com/transmissions11/solcurity
+10 | 基于以太坊硅谷拍卖系统(去中心化eBay) | 链接:https://pan.baidu.com/s/1HSGZyo0FCO04JLL4RolC9A  密码:z7qe
+11 | 尚硅谷深入掌握以太坊核心技术 | https://www.bilibili.com/video/BV1sJ411D72u
+
 
 ## Solidity
 
@@ -73,6 +76,7 @@
 1 | hubwiz区块链博客 | http://blog.hubwiz.com/
 2 | Netkiller Blockchain 手札 | https://www.netkiller.cn/blockchain/index.html
 3 | 登链社区 | https://learnblockchain.cn/
+4 | 区块链安全 ｜ https://github.com/slowmist/Knowledge-Base/
 
 ## 工具
 
