@@ -76,7 +76,7 @@
 1 | hubwiz区块链博客 | http://blog.hubwiz.com/
 2 | Netkiller Blockchain 手札 | https://www.netkiller.cn/blockchain/index.html
 3 | 登链社区 | https://learnblockchain.cn/
-4 | 区块链安全 ｜ https://github.com/slowmist/Knowledge-Base/
+4 | 区块链安全 | https://github.com/slowmist/Knowledge-Base/
 
 ## 工具
 
