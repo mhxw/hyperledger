@@ -41,6 +41,18 @@
 5 | Truffle 官方文档 | https://www.trufflesuite.com/
 6 | Truffle 中文文档 | https://truffle.tryblockchain.org/
 
+## OpenZeppelin
+
+\# | 描述|链接
+----|----|----
+1 | 安全智能合约开发库 | https://docs.openzeppelin.com/contracts/
+2 | ERC20,721,777,1155等代币合约 | https://docs.openzeppelin.com/contracts/tokens
+3 | 基于角色的权限访问控制 | https://docs.openzeppelin.com/contracts/access-control
+4 | 代理模式(透明代理,UUPS代理等) | https://docs.openzeppelin.com/contracts/api/proxy
+5 | 代币投票治理 | https://docs.openzeppelin.com/contracts/governance
+6 | 跨链功能 | https://docs.openzeppelin.com/contracts/4.x/crosschain
+7 | 时间锁 | https://docs.openzeppelin.com/contracts/api/governance#TimelockController
+
 ## IPFS
 
 \# | IPFS学习资料|链接
