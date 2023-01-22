@@ -36,10 +36,12 @@
 ----|----|----
 1 | Solidity 官方文档 | https://docs.soliditylang.org/en/latest/
 2 | Solidity 中文文档 | https://learnblockchain.cn/docs/solidity/
-3 | Hardhat 官方文档 | https://hardhat.org/getting-started/
-4 | Hardhat 中文文档 | https://learnblockchain.cn/docs/hardhat/getting-started/
-5 | Truffle 官方文档 | https://www.trufflesuite.com/
-6 | Truffle 中文文档 | https://truffle.tryblockchain.org/
+3 | Foundry 官方文档 | https://book.getfoundry.sh/
+4 | Foundry 中文文档 | https://learnblockchain.cn/docs/foundry/i18n/zh/
+5 | Hardhat 官方文档 | https://hardhat.org/getting-started/
+6 | Hardhat 中文文档 | https://learnblockchain.cn/docs/hardhat/getting-started/
+7 | Truffle 官方文档 | https://www.trufflesuite.com/
+8 | Truffle 中文文档 | https://truffle.tryblockchain.org/
 
 ## OpenZeppelin
 
