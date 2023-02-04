@@ -91,6 +91,8 @@
 2 | Netkiller Blockchain 手札 | https://www.netkiller.cn/blockchain/index.html
 3 | 登链社区 | https://learnblockchain.cn/
 4 | 区块链安全 | https://github.com/slowmist/Knowledge-Base/
+5 | WTF学院(Solidity&Ethers.js 入门) | https://wtf.academy/
+6 | Dapp learning project for developers at all stages | https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic
 
 ## 工具
 
