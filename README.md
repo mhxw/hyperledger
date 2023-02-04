@@ -4,13 +4,14 @@
 
 \# | hyperledger学习资料|链接
 ----|----|----
-1 | 学习Hyperledger Fabric 实战联盟链 | 链接：https://pan.baidu.com/s/1xoBSCljNCRzAWAiIEToLTw 提取码：mhxw 
-2 | HyperLedger Fabric 企业级开发项目实战 -- 江苏省农牧厅渔业管理系统 | https://pan.baidu.com/s/1GWNrqCS3sFBRz7Mn3E_mew 提取码：zk4s 
-3 | 深度探索区块链：Hyperledger技术与应用_区块链技术丛书-张增骏 | https://download.csdn.net/download/qq_34104725/10918189
-4 | Docker+Kubernetes(k8s)微服务容器化实践 | https://pan.baidu.com/s/1dRixHcR6KkmlTkjqc4eR2A 提取码: 88rh
-5 | Hyperledger弹珠项目和投票系统项目实战 | 链接: https://pan.baidu.com/s/1-ClzDsI9Euf6wUA_eaIzRQ 提取码: sseq
-6 | Hyperledger企业级区块链实战教程 | 链接: https://learnblockchain.cn/books/enterprise/
-7 | 基于hyperledger fabric v2.x 的学历征信系统 | 链接: https://space.bilibili.com/373566326
+1 | Hyperledger 官方网站 | https://www.hyperledger.org/learn
+2 | 学习Hyperledger Fabric 实战联盟链 | 链接：https://pan.baidu.com/s/1xoBSCljNCRzAWAiIEToLTw 提取码：mhxw 
+3 | HyperLedger Fabric 企业级开发项目实战 -- 江苏省农牧厅渔业管理系统 | https://pan.baidu.com/s/1GWNrqCS3sFBRz7Mn3E_mew 提取码：zk4s 
+4 | 深度探索区块链：Hyperledger技术与应用_区块链技术丛书-张增骏 | https://download.csdn.net/download/qq_34104725/10918189
+5 | Docker+Kubernetes(k8s)微服务容器化实践 | https://pan.baidu.com/s/1dRixHcR6KkmlTkjqc4eR2A 提取码: 88rh
+6 | Hyperledger弹珠项目和投票系统项目实战 | 链接: https://pan.baidu.com/s/1-ClzDsI9Euf6wUA_eaIzRQ 提取码: sseq
+7 | Hyperledger企业级区块链实战教程 | 链接: https://learnblockchain.cn/books/enterprise/
+8 | 基于hyperledger fabric v2.x 的学历征信系统 | 链接: https://space.bilibili.com/373566326
 
 
 ## Ethereum
