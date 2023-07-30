@@ -16,7 +16,7 @@
 
 ## Ethereum
 
-\# | 以太坊学习资料|链接
+\# | 以太坊相关学习资料|链接
 ----|----|----
 1 | 通过案例轻松入门Solidity | https://mhxw.life/solidity-by-example/
 2 | 用Go进行以太坊开发 | https://mhxw.life/eth-dev-with-go/
@@ -29,6 +29,7 @@
 9 | 如何编写安全可靠的智能合约(英文版) | https://github.com/transmissions11/solcurity
 10 | 基于以太坊硅谷拍卖系统(去中心化eBay) | 链接:https://pan.baidu.com/s/1HSGZyo0FCO04JLL4RolC9A  密码:z7qe
 11 | 尚硅谷深入掌握以太坊核心技术 | https://www.bilibili.com/video/BV1sJ411D72u
+12 ｜ 优化后的solidity片段 ｜ https://github.com/Vectorized/solady
 
 
 ## Solidity
