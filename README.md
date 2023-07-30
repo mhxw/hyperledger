@@ -29,7 +29,10 @@
 9 | 如何编写安全可靠的智能合约(英文版) | https://github.com/transmissions11/solcurity
 10 | 基于以太坊硅谷拍卖系统(去中心化eBay) | 链接:https://pan.baidu.com/s/1HSGZyo0FCO04JLL4RolC9A  密码:z7qe
 11 | 尚硅谷深入掌握以太坊核心技术 | https://www.bilibili.com/video/BV1sJ411D72u
-12 ｜ 优化后的solidity片段 ｜ https://github.com/Vectorized/solady
+12 | 优化后的solidity片段  | https://github.com/Vectorized/solady
+13 | 通过案例学习yul  | https://github.com/Perelyn-sama/yul_by_example
+14 | 有用的solidity 编程模式  |  https://github.com/dragonfly-xyz/useful-solidity-patterns
+15 | Solcurity: 合约代码安全建议 | [EN版](https://github.com/transmissions11/solcurity) [ZH版](https://learnblockchain.cn/article/5329)
 
 
 ## Solidity
