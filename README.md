@@ -47,6 +47,9 @@
 6 | Hardhat 中文文档 | https://learnblockchain.cn/docs/hardhat/getting-started/
 7 | Truffle 官方文档 | https://www.trufflesuite.com/
 8 | Truffle 中文文档 | https://truffle.tryblockchain.org/
+9 | Gas 优化手册1 | https://www.rareskills.io/zh/post/gas-optimization-zh
+10 | Gas 优化手册2 | https://github.com/WTFAcademy/WTF-gas-optimization
+11 | 存储布局和ABI | https://github.com/WTFAcademy/WTF-Solidity-Internals
 
 ## OpenZeppelin
 
