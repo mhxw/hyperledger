@@ -63,11 +63,19 @@
 6 | 跨链功能 | https://docs.openzeppelin.com/contracts/4.x/crosschain
 7 | 时间锁 | https://docs.openzeppelin.com/contracts/api/governance#TimelockController
 
+## Solana
+
+\# | 描述 | 链接
+----|----|----
+1 | Solana官方2022训练营 | https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0
+2 | Solana中文大全 | https://solana-basic.surge.sh/
+
 ## IPFS
 
 \# | IPFS学习资料|链接
 ----|----|----
 1 | IPFS音乐播放器项目 | 链接：https://pan.baidu.com/s/1mgKygDDp6DjG_OpFbGuWEg 提取码：t9xg 
+
 ## Golang
 
 \# | Go语言学习资料|链接
