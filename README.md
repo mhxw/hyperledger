@@ -69,6 +69,7 @@
 ----|----|----
 1 | Solana官方2022训练营 | https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0
 2 | Solana中文大全 | https://solana-basic.surge.sh/
+3 | Solana中文开发者资料 | https://www.solanazh.com/
 
 ## IPFS
 
