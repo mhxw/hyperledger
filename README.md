@@ -67,9 +67,10 @@
 
 \# | 描述 | 链接
 ----|----|----
-1 | Solana官方2022训练营 | https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0
-2 | Solana文档中文版 | https://www.solana-cn.com/
-3 | Solana中文开发者资料 | https://www.solanazh.com/
+1 | Solana秘籍 | https://solanacookbook.com/zh/
+2 | Solana官方2022训练营 | https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0
+3 | Solana文档中文版 | https://www.solana-cn.com/
+4 | Solana中文开发者资料 | https://www.solanazh.com/
 
 ## IPFS
 
