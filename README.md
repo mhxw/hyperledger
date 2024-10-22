@@ -34,6 +34,15 @@
 14 | 有用的solidity 编程模式  |  https://github.com/dragonfly-xyz/useful-solidity-patterns
 15 | Solcurity: 合约代码安全建议 | [EN版](https://github.com/transmissions11/solcurity) [ZH版](https://learnblockchain.cn/article/5329)
 
+## Solana
+
+\# | 描述 | 链接
+----|----|----
+1 | Solana秘籍 | https://solanacookbook.com/zh/
+2 | Solana官方2022训练营 | https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0
+3 | Solana文档中文版 | https://www.solana-cn.com/
+4 | Solana中文开发者资料 | https://www.solanazh.com/
+5 | Solana官方2024训练营 | https://github.com/solana-developers/developer-bootcamp-2024
 
 ## Solidity
 
@@ -62,15 +71,6 @@
 5 | 代币投票治理 | https://docs.openzeppelin.com/contracts/governance
 6 | 跨链功能 | https://docs.openzeppelin.com/contracts/4.x/crosschain
 7 | 时间锁 | https://docs.openzeppelin.com/contracts/api/governance#TimelockController
-
-## Solana
-
-\# | 描述 | 链接
-----|----|----
-1 | Solana秘籍 | https://solanacookbook.com/zh/
-2 | Solana官方2022训练营 | https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0
-3 | Solana文档中文版 | https://www.solana-cn.com/
-4 | Solana中文开发者资料 | https://www.solanazh.com/
 
 ## IPFS
 
