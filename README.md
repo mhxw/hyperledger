@@ -18,8 +18,8 @@
 
 \# | 以太坊相关学习资料|链接
 ----|----|----
-1 | 通过案例轻松入门Solidity | https://mhxw.life/solidity-by-example/
-2 | 用Go进行以太坊开发 | https://mhxw.life/eth-dev-with-go/
+1 | 通过案例轻松入门Solidity | https://mhxw.github.io/solidity-by-example/
+2 | 用Go进行以太坊开发 | https://mhxw.github.io/eth-dev-with-go/
 3 | 以太坊开发者使用工具集锦 | https://github.com/ConsenSys/ethereum-developer-tools-list
 4 | 以太坊学习社区 | https://learnblockchain.cn/
 5 | 以太坊solidity开发者博客 | https://soliditydeveloper.com/
