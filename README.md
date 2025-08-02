@@ -19,7 +19,7 @@
 \# | 以太坊相关学习资料|链接
 ----|----|----
 1 | 通过案例轻松入门Solidity | https://mhxw.github.io/solidity-by-example/
-2 | 用Go进行以太坊开发 | https://mhxw.github.io/eth-dev-with-go/
+2 | Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析 | https://github.com/ABCDELabs/Understanding-Ethereum-Go-version
 3 | 以太坊开发者使用工具集锦 | https://github.com/ConsenSys/ethereum-developer-tools-list
 4 | 以太坊学习社区 | https://learnblockchain.cn/
 5 | 以太坊solidity开发者博客 | https://soliditydeveloper.com/
@@ -33,6 +33,7 @@
 13 | 通过案例学习yul  | https://github.com/Perelyn-sama/yul_by_example
 14 | 有用的solidity 编程模式  |  https://github.com/dragonfly-xyz/useful-solidity-patterns
 15 | Solcurity: 合约代码安全建议 | [EN版](https://github.com/transmissions11/solcurity) [ZH版](https://learnblockchain.cn/article/5329)
+16 | 用Go进行以太坊开发 | https://mhxw.github.io/eth-dev-with-go/
 
 ## Solana
 
