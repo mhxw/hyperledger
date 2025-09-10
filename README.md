@@ -127,4 +127,4 @@
 ----|----|----
 1 | SSH使用：Xshell&Xftp教育版 | 链接：https://pan.baidu.com/s/13xoVcG4KDCZGkPASs74vHA 提取码：2e07 
 >  资料收集于网络，如有侵权联系作者删除。 
->  以上资料如果失效，联系作者邮箱重新补全更新。邮箱：holechain@gmail.com
+>  以上资料如果失效，联系作者邮箱重新补全更新。邮箱：1djbl7gci@mozmail.com
