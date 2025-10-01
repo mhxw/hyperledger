@@ -2,7 +2,7 @@
 
 > 收集资料的目的是让区块链开发者有一份好的学习资料，欢迎大家互相学习请教，如果您有好的资料，欢迎补充完善。
 
-\# | hyperledger学习资料|链接
+\# | hyperledger学习资料|Link
 ----|----|----
 1 | Hyperledger 官方网站 | https://wiki.hyperledger.org
 2 | 学习Hyperledger Fabric 实战联盟链 | 链接：https://pan.baidu.com/s/1xoBSCljNCRzAWAiIEToLTw 提取码：mhxw 
@@ -16,7 +16,7 @@
 
 ## Ethereum
 
-\# | 以太坊相关学习资料|链接
+\# | 以太坊相关学习资料|Link
 ----|----|----
 1 | 通过案例轻松入门Solidity | https://mhxw.github.io/solidity-by-example/
 2 | Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析 | https://github.com/ABCDELabs/Understanding-Ethereum-Go-version
@@ -35,9 +35,25 @@
 15 | Solcurity: 合约代码安全建议 | [EN版](https://github.com/transmissions11/solcurity) [ZH版](https://learnblockchain.cn/article/5329)
 16 | 用Go进行以太坊开发 | https://mhxw.github.io/eth-dev-with-go/
 
+## Solidity
+
+\# | 描述|Link
+----|----|----
+1 | Solidity 官方文档 | https://docs.soliditylang.org/en/latest/
+2 | Solidity 中文文档 | https://learnblockchain.cn/docs/solidity/
+3 | Foundry 官方文档 | https://book.getfoundry.sh/
+4 | Foundry 中文文档 | https://learnblockchain.cn/docs/foundry/i18n/zh/
+5 | Hardhat 官方文档 | https://hardhat.org/getting-started/
+6 | Hardhat 中文文档 | https://learnblockchain.cn/docs/hardhat/getting-started/
+7 | Truffle 官方文档 | https://www.trufflesuite.com/
+8 | Truffle 中文文档 | https://truffle.tryblockchain.org/
+9 | Gas 优化手册1 | https://www.rareskills.io/post/gas-optimization
+10 | Gas 优化手册2 | https://github.com/WTFAcademy/WTF-gas-optimization
+11 | 存储布局和ABI | https://github.com/WTFAcademy/WTF-Solidity-Internals
+
 ## EVM DeFi
 
- 协议 | 描述 | 链接
+ 协议 | 描述 | Link
 ----|----|----
  Uniswap | Uniswap v2 合约代码| [Uniswap v2-core](https://github.com/Uniswap/v2-core)
  Uniswap | Uniswap v3 合约代码 | [Uniswap v3-core](https://github.com/Uniswap/v3-core)
@@ -45,7 +61,7 @@
 
 ## Solana
 
-\# | 描述 | 链接
+\# | 描述 | Link
 ----|----|----
 1 | Solana秘籍 | https://solanacookbook.com/zh/
 2 | Solana官方2022训练营 | https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0
@@ -62,25 +78,9 @@ Project Name | Github  | Other
 1Inch | https://github.com/1inch/solana-fusion-protocol/ | anchor_version = "0.31.1" solana_version = "2.1.0"
 Drift Protocol V2 | https://github.com/drift-labs/protocol-v2 | anchor_version="0.29.0" solana_version = "1.16.27" linux
 
-## Solidity
-
-\# | 描述|链接
-----|----|----
-1 | Solidity 官方文档 | https://docs.soliditylang.org/en/latest/
-2 | Solidity 中文文档 | https://learnblockchain.cn/docs/solidity/
-3 | Foundry 官方文档 | https://book.getfoundry.sh/
-4 | Foundry 中文文档 | https://learnblockchain.cn/docs/foundry/i18n/zh/
-5 | Hardhat 官方文档 | https://hardhat.org/getting-started/
-6 | Hardhat 中文文档 | https://learnblockchain.cn/docs/hardhat/getting-started/
-7 | Truffle 官方文档 | https://www.trufflesuite.com/
-8 | Truffle 中文文档 | https://truffle.tryblockchain.org/
-9 | Gas 优化手册1 | https://www.rareskills.io/post/gas-optimization
-10 | Gas 优化手册2 | https://github.com/WTFAcademy/WTF-gas-optimization
-11 | 存储布局和ABI | https://github.com/WTFAcademy/WTF-Solidity-Internals
-
 ## OpenZeppelin
 
-\# | 描述|链接
+\# | 描述|Link
 ----|----|----
 1 | 安全智能合约开发库 | https://docs.openzeppelin.com/contracts/
 2 | ERC20,721,777,1155等代币合约 | https://docs.openzeppelin.com/contracts/tokens
@@ -92,13 +92,13 @@ Drift Protocol V2 | https://github.com/drift-labs/protocol-v2 | anchor_version="
 
 ## IPFS
 
-\# | IPFS学习资料|链接
+\# | IPFS学习资料|Link
 ----|----|----
 1 | IPFS音乐播放器项目 | 链接：https://pan.baidu.com/s/1mgKygDDp6DjG_OpFbGuWEg 提取码：t9xg 
 
 ## Golang
 
-\# | Go语言学习资料|链接
+\# | Go语言学习资料|Link
 ----|----|----
 1 | 20小时快速入门go语言视频-黑马程序员 | https://pan.baidu.com/s/1SOybRHWSpbu16D4SmPR_Fg 提取码: ss32
 2 | Go语言核心编程课程(韩顺平主讲)-尚硅谷 | https://pan.baidu.com/s/156PiUw45aEmKLbyqFM6Iqw 提取码：I768
@@ -107,7 +107,7 @@ Drift Protocol V2 | https://github.com/drift-labs/protocol-v2 | anchor_version="
 
 ## 教程
 
-\# | 描述 | 链接
+\# | 描述 | Link
 ----|----|----
 1 | HyperLedger Fabric 基础介绍 | https://zhuanlan.zhihu.com/p/55341714
 2 | Ubuntu 16.04部署HyperLedger Fabric(持续更新) | https://zhuanlan.zhihu.com/p/54759061
@@ -121,7 +121,7 @@ Drift Protocol V2 | https://github.com/drift-labs/protocol-v2 | anchor_version="
 
 ## Blog
 
-\# | 描述 | 链接
+\# | 描述 | Link
 ----|----|----
 1 | Openzeppelin Research | https://www.openzeppelin.com/research
 2 | Netkiller Blockchain 手札 | https://www.netkiller.cn/blockchain/index.html
@@ -131,10 +131,5 @@ Drift Protocol V2 | https://github.com/drift-labs/protocol-v2 | anchor_version="
 6 | Dapp learning project for developers at all stages | https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic
 7 | hubwiz区块链博客 | http://blog.hubwiz.com/
 
-## 工具
-
-\# | 工具 | 链接
-----|----|----
-1 | SSH使用：Xshell&Xftp教育版 | 链接：https://pan.baidu.com/s/13xoVcG4KDCZGkPASs74vHA 提取码：2e07 
 >  资料收集于网络，如有侵权联系作者删除。 
 >  以上资料如果失效，联系作者邮箱重新补全更新。邮箱：1djbl7gci@mozmail.com
