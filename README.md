@@ -52,6 +52,8 @@
 3 | Solana文档中文版 | https://www.solana-cn.com/
 4 | Solana中文开发者资料 | https://www.solanazh.com/
 5 | Solana官方2024训练营 | https://github.com/solana-developers/developer-bootcamp-2024
+6 | Anchor Englist Documents | https://www.anchor-lang.com/docs
+7 | Anchor 中文文档 | https://learnblockchain.cn/docs/anchor
 
 ## Solana DeFi
 
