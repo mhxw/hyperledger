@@ -35,6 +35,14 @@
 15 | Solcurity: 合约代码安全建议 | [EN版](https://github.com/transmissions11/solcurity) [ZH版](https://learnblockchain.cn/article/5329)
 16 | 用Go进行以太坊开发 | https://mhxw.github.io/eth-dev-with-go/
 
+## EVM DeFi
+
+ 协议 | 描述 | 链接
+----|----|----
+ Uniswap | Uniswap v2 合约代码| [Uniswap v2-core](https://github.com/Uniswap/v2-core)
+ Uniswap | Uniswap v3 合约代码 | [Uniswap v3-core](https://github.com/Uniswap/v3-core)
+ Uniswap | Uniswap v4 合约代码| [Uniswap v4-core](https://github.com/Uniswap/v4-core)
+
 ## Solana
 
 \# | 描述 | 链接
@@ -113,7 +121,6 @@ Step Staking | https://github.com/step-finance/step-staking | anchor_version="0.
 
 \# | 描述 | 链接
 ----|----|----
-
 1 | Openzeppelin Research | https://www.openzeppelin.com/research
 2 | Netkiller Blockchain 手札 | https://www.netkiller.cn/blockchain/index.html
 3 | 登链社区 | https://learnblockchain.cn/
@@ -121,14 +128,6 @@ Step Staking | https://github.com/step-finance/step-staking | anchor_version="0.
 5 | WTF学院(Solidity&Ethers.js 入门) | https://wtf.academy/
 6 | Dapp learning project for developers at all stages | https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic
 7 | hubwiz区块链博客 | http://blog.hubwiz.com/
-
-## Project
-
-\# | 协议 | 描述 | 链接
-----|----|----|----
-1 | Uniswap | Uniswap v2 合约代码| [Uniswap v2-core](https://github.com/Uniswap/v2-core)
-2 | Uniswap | Uniswap v3 合约代码 | [Uniswap v3-core](https://github.com/Uniswap/v3-core)
-3 | Uniswap | Uniswap v4 合约代码| [Uniswap v4-core](https://github.com/Uniswap/v4-core)
 
 ## 工具
 
