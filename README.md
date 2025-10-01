@@ -4,7 +4,7 @@
 
 \# | hyperledger学习资料|链接
 ----|----|----
-1 | Hyperledger 官方网站 | https://www.hyperledger.org/learn
+1 | Hyperledger 官方网站 | https://wiki.hyperledger.org
 2 | 学习Hyperledger Fabric 实战联盟链 | 链接：https://pan.baidu.com/s/1xoBSCljNCRzAWAiIEToLTw 提取码：mhxw 
 3 | HyperLedger Fabric 企业级开发项目实战 -- 江苏省农牧厅渔业管理系统 | https://pan.baidu.com/s/1GWNrqCS3sFBRz7Mn3E_mew 提取码：zk4s 
 4 | 深度探索区块链：Hyperledger技术与应用_区块链技术丛书-张增骏 | https://download.csdn.net/download/qq_34104725/10918189
