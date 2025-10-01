@@ -45,6 +45,13 @@
 4 | Solana中文开发者资料 | https://www.solanazh.com/
 5 | Solana官方2024训练营 | https://github.com/solana-developers/developer-bootcamp-2024
 
+## Solana DeFi
+
+Project Name | Github  | Other
+----|----|----
+1Inch | https://github.com/1inch/solana-fusion-protocol/ | anchor_version = "0.31.1" solana_version = "2.1.0"
+Step Staking | https://github.com/step-finance/step-staking | anchor_version="0.28.0"
+
 ## Solidity
 
 \# | 描述|链接
@@ -102,16 +109,18 @@
 8 | 尚硅谷_雷丰阳SpringBoot核心技术篇（基础篇）| https://pan.baidu.com/s/1UqkQRpQ7f6fuJNi3JOlbyQ 提取码: rbde
 9 | 尚硅谷-雷丰阳SpringBoot高级进阶篇（整合篇）| https://pan.baidu.com/s/1iCLfuXqcMAJ1n0LLzS1dTQ 提取码: 7ddt
 
-## 博客
+## Blog
 
 \# | 描述 | 链接
 ----|----|----
-1 | hubwiz区块链博客 | http://blog.hubwiz.com/
+
+1 | Openzeppelin Research | https://www.openzeppelin.com/research
 2 | Netkiller Blockchain 手札 | https://www.netkiller.cn/blockchain/index.html
 3 | 登链社区 | https://learnblockchain.cn/
 4 | 区块链安全 | https://github.com/slowmist/Knowledge-Base/
 5 | WTF学院(Solidity&Ethers.js 入门) | https://wtf.academy/
 6 | Dapp learning project for developers at all stages | https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic
+7 | hubwiz区块链博客 | http://blog.hubwiz.com/
 
 ## Project
 
