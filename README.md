@@ -58,7 +58,7 @@
 Project Name | Github  | Other
 ----|----|----
 1Inch | https://github.com/1inch/solana-fusion-protocol/ | anchor_version = "0.31.1" solana_version = "2.1.0"
-Step Staking | https://github.com/step-finance/step-staking | anchor_version="0.28.0"
+Drift Protocol V2 | https://github.com/drift-labs/protocol-v2 | anchor_version="0.29.0" solana_version = "1.16.27" linux
 
 ## Solidity
 
